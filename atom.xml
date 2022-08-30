@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://mikoto13.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://mikoto13.github.io/"/>
   <updated>2022-08-29T02:14:37.065Z</updated>
-  <id>http://example.com/</id>
+  <id>https://mikoto13.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://mikoto13.github.io/posts/4a17b156.html"/>
+    <id>https://mikoto13.github.io/posts/4a17b156.html</id>
     <published>2022-08-28T14:14:36.804Z</published>
     <updated>2022-08-29T02:14:37.065Z</updated>
     
